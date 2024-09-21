@@ -1,0 +1,7 @@
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\bin\Release\CalculoAreaTriangulo.exe.config
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\bin\Release\CalculoAreaTriangulo.exe
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\bin\Release\CalculoAreaTriangulo.pdb
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\obj\Release\CalculoAreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\obj\Release\CalculoAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\obj\Release\CalculoAreaTriangulo.exe
+C:\Users\Alejandra\Documents\Proyectos\development-csharp\Día1_Programa1\CalculoAreaTriangulo\obj\Release\CalculoAreaTriangulo.pdb

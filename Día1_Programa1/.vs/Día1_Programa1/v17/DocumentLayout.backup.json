@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandra\\Documents\\Proyectos\\development-csharp\\D\u00EDa1_Programa1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E3C878-C619-45C4-A8A1-D104B812A8DE}|CalculoAreaTriangulo\\CalculoAreaTriangulo.csproj|c:\\users\\alejandra\\documents\\proyectos\\development-csharp\\d\u00EDa1_programa1\\calculoareatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E3C878-C619-45C4-A8A1-D104B812A8DE}|CalculoAreaTriangulo\\CalculoAreaTriangulo.csproj|solutionrelative:calculoareatriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32365834-E216-483B-B219-5145A291FA91}|nombreEdadAltura\\nombreEdadAltura.csproj|c:\\users\\alejandra\\documents\\proyectos\\development-csharp\\d\u00EDa1_programa1\\nombreedadaltura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32365834-E216-483B-B219-5145A291FA91}|nombreEdadAltura\\nombreEdadAltura.csproj|solutionrelative:nombreedadaltura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandra\\Documents\\Proyectos\\development-csharp\\D\u00EDa1_Programa1\\CalculoAreaTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoAreaTriangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejandra\\Documents\\Proyectos\\development-csharp\\D\u00EDa1_Programa1\\CalculoAreaTriangulo\\Program.cs",
+              "RelativeToolTip": "CalculoAreaTriangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:14:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandra\\Documents\\Proyectos\\development-csharp\\D\u00EDa1_Programa1\\nombreEdadAltura\\Program.cs",
+              "RelativeDocumentMoniker": "nombreEdadAltura\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejandra\\Documents\\Proyectos\\development-csharp\\D\u00EDa1_Programa1\\nombreEdadAltura\\Program.cs",
+              "RelativeToolTip": "nombreEdadAltura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:13:29.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
